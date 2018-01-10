@@ -17,6 +17,8 @@
 
 [openresty 前端开发入门六之调试篇](https://github.com/362228416/openresty-web-dev/tree/master/demo6)
 
+[openresty 前端开发入门七之kafka篇](https://github.com/yueyuanyang/openresty/tree/master/demo16)
+
 [openresty 前端开发轻量级MVC框架封装一（控制器篇）](https://github.com/362228416/openresty-web-dev/tree/master/demo8)
 
 [openresty 前端开发轻量级MVC框架封装二（渲染篇）](https://github.com/362228416/openresty-web-dev/tree/master/demo9)
