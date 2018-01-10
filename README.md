@@ -64,3 +64,4 @@ $ git checkout https://github.com/362228416/openresty-web-dev.git
 $ cd openresty-web-dev
 $ openresty -p demo1 # 这里按实际情况来选择一个demo运行
 ```
+注：感谢362228416，本文用于收藏学习，原文：https://github.com/362228416/openresty-web-dev
