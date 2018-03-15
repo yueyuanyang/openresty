@@ -57,6 +57,7 @@ openresty 灰度发布
 
 [openresty 之 nginx-api-for-lua](https://github.com/openresty/lua-nginx-module#nginx-api-for-lua) ngx所有API都在这里，最好的文档
 
+[ab 压力测试]()https://github.com/362228416/openresty-web-dev/tree/master/demo16)
 ... 持续更新待续
 
 测试运行
